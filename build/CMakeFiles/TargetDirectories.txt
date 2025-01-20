@@ -1,0 +1,3 @@
+C:/Users/theod/Downloads/programming/Moving-Phong-Light/build/CMakeFiles/phong.dir
+C:/Users/theod/Downloads/programming/Moving-Phong-Light/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/theod/Downloads/programming/Moving-Phong-Light/build/CMakeFiles/ZERO_CHECK.dir

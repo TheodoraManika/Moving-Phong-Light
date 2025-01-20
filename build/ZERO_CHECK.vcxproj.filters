@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\theod\Downloads\programming\Moving-Phong-Light\build\CMakeFiles\18721f0477aad3bd73c01af3bf1b0c6b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{48A607E6-0279-38BE-9B19-FAD73C5C7999}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
